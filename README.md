@@ -1,1 +1,1 @@
-# Forecasting-S-P-SPY-
+# Forecasting-SPY
