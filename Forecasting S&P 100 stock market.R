@@ -53,7 +53,7 @@ fcast4 <- forecast(fitD, h = term)
 plot(fcast4)
 
 #mape accuracy
-accuracy(fcast1) #99.22 %
-accuracy(fcast2) #99.22 %
-accuracy(fcast3) #99.22 %
-accuracy(fcast4) #99.22 %
+accuracy(fcast1) #99.22%
+accuracy(fcast2) #99.22%
+accuracy(fcast3) #99.22%
+accuracy(fcast4) #99.22%
